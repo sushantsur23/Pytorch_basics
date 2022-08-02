@@ -9,8 +9,8 @@ site_description: >-
   DESCRIPTION
 
 # Repository
-repo_name: sushantsur23/REPO_NAME
-repo_url: https://github.com/sushantsur23/REPO_NAME
+repo_name: sushantsur23/Pytorch_basics
+repo_url: https://github.com/sushantsur23/Pytorch_basics
 
 # Configuration
 theme:
