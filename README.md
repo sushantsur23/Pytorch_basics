@@ -5,4 +5,4 @@
 [![](./assets/screenshot.png)](https://sushantsur23.github.io/Pytorch-basics/) -->
 
 * ## This repository contains introduction to Pytorch. 
-* ## [Click here](https://sushantsur23.github.io/Pytorch-basics/) Refer the documentation associated with this repository
+* ## [Click here](https://sushantsur23.github.io/Pytorch_basics/) Refer the documentation associated with this repository
